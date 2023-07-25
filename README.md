@@ -1,4 +1,7 @@
 # Google-PlayStore-App-Review-Analysis
+
+![Google_Play_Store](Exploratory-Data-Analysis.jpg)
+
 Project name - Play Store app review Analysis 
 
 Project Type - Exploratory Data Analysis
